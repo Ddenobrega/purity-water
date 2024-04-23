@@ -7,8 +7,8 @@ function injectHeader() {
       </div>
       <ul>
         <a href="/">Home</a
-        ><a href="/store.html">Products</a
-        ><a href="/contact.html">Contact</a>
+        ><a href="./store.html">Products</a
+        ><a href="./contact.html">Contact</a>
       </ul>
     </header>
   `;
