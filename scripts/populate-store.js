@@ -7,7 +7,7 @@ class PopulateStore {
     {
       name: "100ml Bottled Water",
       price: "$100",
-      img: "./assets/item2.png",
+      img: "./assets/item1.png",
     },
     {
       name: "15L Bottled Water",
@@ -17,7 +17,7 @@ class PopulateStore {
     {
       name: "24 Pack Water Bottle",
       price: "$1060",
-      img: "./assets/item2.png",
+      img: "./assets/item3.png",
     },
   ];
   loopCatalog() {
