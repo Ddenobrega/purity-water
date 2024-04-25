@@ -6,7 +6,7 @@ function injectHeader() {
         <h1>PurityWater</h1>
       </div>
       <ul>
-        <a href="/">Home</a
+        <a href="./">Home</a
         ><a href="./store.html">Products</a
         ><a href="./contact.html">Contact</a>
       </ul>
